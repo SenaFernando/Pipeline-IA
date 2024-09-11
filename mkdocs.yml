@@ -1,0 +1,9 @@
+site_name: Sistema de CRM e Vendas da ZapFlow
+
+theme:
+  name: "material"
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
